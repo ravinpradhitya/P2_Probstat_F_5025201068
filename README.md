@@ -88,6 +88,8 @@ B. Hitung Sampel Statistik
 tsum.test(mean.x = 3.64, s.x = 1.67, n.x = 19, mean.y = 2.79 , s.y = 1.32, n.y = 27, alternative = "greater", var.equal = TRUE)
 ```
 
+![3b](https://github.com/ravinpradhitya/P2_Probstat_F_5025201068/blob/main/img/3b.jpg)
+
 C. Lakukan Uji Statistik (df =2)
 ```r
 install.packages("mosaic")
@@ -96,10 +98,14 @@ library(mosaic)
 plotDist(dist = 't', df = 2, col = "red")
 ```
 
+![3c](https://github.com/ravinpradhitya/P2_Probstat_F_5025201068/blob/main/img/3c.jpg)
+
 D. Nilai Kritikal
 ```r
 qchisq(p = 0.05, df = 2, lower.tail = FALSE)
 ```
+
+![3d](https://github.com/ravinpradhitya/P2_Probstat_F_5025201068/blob/main/img/3d.jpg)
 
 E. Keputusan
 ```
