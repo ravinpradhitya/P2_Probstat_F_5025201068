@@ -29,8 +29,7 @@ B. Carilah nilai t (p-value)
 ```r
 t.test (x, y, alternative = "greater", var.equal = FALSE)
 ```
-![image](https://user-images.githubusercontent.com/90445721/170882075-c853cb75-0576-457e-8e9c-8a5740973767.png
-
+![1b](https://github.com/ravinpradhitya/P2_Probstat_F_5025201068/blob/main/1b.jpg)
 
 C. Tentukanlah apakah terdapat pengaruh yang signifikan secara statistika
 dalam hal kadar saturasi oksigen, sebelum dan sesudah melakukan
