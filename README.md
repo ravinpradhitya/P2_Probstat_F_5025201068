@@ -29,6 +29,7 @@ B. Carilah nilai t (p-value)
 ```r
 t.test (x, y, alternative = "greater", var.equal = FALSE)
 ```
+![image](https://user-images.githubusercontent.com/90445721/170882075-c853cb75-0576-457e-8e9c-8a5740973767.png
 
 
 C. Tentukanlah apakah terdapat pengaruh yang signifikan secara statistika
