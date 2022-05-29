@@ -9,6 +9,8 @@ diminta melakukan aktivitas 𝐴. Setelah 15 menit, peneliti tersebut mencatat k
 kadar saturasi oksigen dari 9 responden tersebut. Berikut data dari 9 responden
 mengenai kadar saturasi oksigen sebelum dan sesudah melakukan aktivitas 𝐴
 
+![1a]([https://github.com/ravinpradhitya/P1_Probstat_F_5025201068/blob/main/2b.jpg](https://github.com/ravinpradhitya/P2_Probstat_F_5025201068/blob/main/no1.jpg))
+
 Berdasarkan data pada tabel diatas, diketahui kadar saturasi oksigen dari
 responden ke-3 ketika belum melakukan aktivitas 𝐴 sebanyak 67, dan setelah
 melakukan aktivitas 𝐴 sebanyak 70.
@@ -20,14 +22,14 @@ diatas
 selisih <- sd(x-y)
 print(selisih)
 ```
-Jadi, hasilnya adalah
+
 
 B. Carilah nilai t (p-value)
 
 ```r
 t.test (x, y, alternative = "greater", var.equal = FALSE)
 ```
-Jadi, hasilnya adalah
+
 
 C. Tentukanlah apakah terdapat pengaruh yang signifikan secara statistika
 dalam hal kadar saturasi oksigen, sebelum dan sesudah melakukan
@@ -39,4 +41,4 @@ oksigen, sebelum dan sesudah melakukan aktivitas 𝐴”
 var.test(x, y)
 t.test(x, y, mu = 0, alternative = "two.sided", var.equal = TRUE)
 ```
-Jadi, hasilnya adalah
+
