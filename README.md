@@ -9,7 +9,7 @@ diminta melakukan aktivitas 𝐴. Setelah 15 menit, peneliti tersebut mencatat k
 kadar saturasi oksigen dari 9 responden tersebut. Berikut data dari 9 responden
 mengenai kadar saturasi oksigen sebelum dan sesudah melakukan aktivitas 𝐴
 
-![1a]([https://github.com/ravinpradhitya/P1_Probstat_F_5025201068/blob/main/2b.jpg](https://github.com/ravinpradhitya/P2_Probstat_F_5025201068/blob/main/no1.jpg))
+![1a](https://github.com/ravinpradhitya/P2_Probstat_F_5025201068/blob/main/no1.jpg)
 
 Berdasarkan data pada tabel diatas, diketahui kadar saturasi oksigen dari
 responden ke-3 ketika belum melakukan aktivitas 𝐴 sebanyak 67, dan setelah
