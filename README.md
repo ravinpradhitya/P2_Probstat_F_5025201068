@@ -76,3 +76,37 @@ didapatkanlah data berikut dari perusahaan saham tersebut.
 Dari data diatas berilah keputusan serta kesimpulan yang didapatkan dari hasil
 diatas. Asumsikan nilai variancenya sama, apakah ada perbedaan pada
 rata-ratanya (α= 0.05)? Buatlah :
+A. H0 dan H1
+
+```
+H0 = 9.50 && H1 = 10.98
+```
+
+B. Hitung Sampel Statistik
+
+```r
+tsum.test(mean.x = 3.64, s.x = 1.67, n.x = 19, mean.y = 2.79 , s.y = 1.32, n.y = 27, alternative = "greater", var.equal = TRUE)
+```
+
+C. Lakukan Uji Statistik (df =2)
+```r
+install.packages("mosaic")
+library(mosaic)
+
+plotDist(dist = 't', df = 2, col = "red")
+```
+
+D. Nilai Kritikal
+```r
+qchisq(p = 0.05, df = 2, lower.tail = FALSE)
+```
+
+E. Keputusan
+```
+H0 tidak bisa
+```
+
+F. Kesimpulan
+```
+Jadi, tidak ada perbedaan rata-rata saham di 2 kota tersebut.
+```
