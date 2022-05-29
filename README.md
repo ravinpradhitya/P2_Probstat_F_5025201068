@@ -71,7 +71,7 @@ Jadi benar bahwa mobil dikemudikan rata-rata lebih dari 20.000 kilometer per tah
 permasalahan pengambilan keputusan dalam perusahaan tersebut. Selanjutnya
 didapatkanlah data berikut dari perusahaan saham tersebut.
 
-
+![2b](https://github.com/ravinpradhitya/P2_Probstat_F_5025201068/blob/main/img/no3.jpg)
 
 Dari data diatas berilah keputusan serta kesimpulan yang didapatkan dari hasil
 diatas. Asumsikan nilai variancenya sama, apakah ada perbedaan pada
