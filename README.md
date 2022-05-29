@@ -76,6 +76,7 @@ didapatkanlah data berikut dari perusahaan saham tersebut.
 Dari data diatas berilah keputusan serta kesimpulan yang didapatkan dari hasil
 diatas. Asumsikan nilai variancenya sama, apakah ada perbedaan pada
 rata-ratanya (α= 0.05)? Buatlah :
+
 A. H0 dan H1
 
 ```
