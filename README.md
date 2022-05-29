@@ -65,3 +65,14 @@ C. Buatlah kesimpulan berdasarkan P-Value yang dihasilkan!
 ```
 Jadi benar bahwa mobil dikemudikan rata-rata lebih dari 20.000 kilometer per tahun
 ```
+
+
+3. Diketahui perusahaan memiliki seorang data analyst ingin memecahkan
+permasalahan pengambilan keputusan dalam perusahaan tersebut. Selanjutnya
+didapatkanlah data berikut dari perusahaan saham tersebut.
+
+
+
+Dari data diatas berilah keputusan serta kesimpulan yang didapatkan dari hasil
+diatas. Asumsikan nilai variancenya sama, apakah ada perbedaan pada
+rata-ratanya (α= 0.05)? Buatlah :
