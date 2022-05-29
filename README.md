@@ -41,4 +41,4 @@ oksigen, sebelum dan sesudah melakukan aktivitas 𝐴”
 var.test(x, y)
 t.test(x, y, mu = 0, alternative = "two.sided", var.equal = TRUE)
 ```
-
+![1c](https://github.com/ravinpradhitya/P2_Probstat_F_5025201068/blob/main/1c.jpg)
