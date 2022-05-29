@@ -9,7 +9,7 @@ diminta melakukan aktivitas 𝐴. Setelah 15 menit, peneliti tersebut mencatat k
 kadar saturasi oksigen dari 9 responden tersebut. Berikut data dari 9 responden
 mengenai kadar saturasi oksigen sebelum dan sesudah melakukan aktivitas 𝐴
 
-![1](https://github.com/ravinpradhitya/P2_Probstat_F_5025201068/blob/main/no1.jpg)
+![1](https://github.com/ravinpradhitya/P2_Probstat_F_5025201068/blob/main/img/no1.jpg)
 
 Berdasarkan data pada tabel diatas, diketahui kadar saturasi oksigen dari
 responden ke-3 ketika belum melakukan aktivitas 𝐴 sebanyak 67, dan setelah
@@ -22,14 +22,14 @@ diatas
 selisih <- sd(x-y)
 print(selisih)
 ```
-![1a](https://github.com/ravinpradhitya/P2_Probstat_F_5025201068/blob/main/1a.jpg)
+![1a](https://github.com/ravinpradhitya/P2_Probstat_F_5025201068/blob/main/img/1a.jpg)
 
 B. Carilah nilai t (p-value)
 
 ```r
 t.test (x, y, alternative = "greater", var.equal = FALSE)
 ```
-![1b](https://github.com/ravinpradhitya/P2_Probstat_F_5025201068/blob/main/1b.jpg)
+![1b](https://github.com/ravinpradhitya/P2_Probstat_F_5025201068/blob/main/img/1b.jpg)
 
 C. Tentukanlah apakah terdapat pengaruh yang signifikan secara statistika
 dalam hal kadar saturasi oksigen, sebelum dan sesudah melakukan
@@ -41,7 +41,7 @@ oksigen, sebelum dan sesudah melakukan aktivitas 𝐴”
 var.test(x, y)
 t.test(x, y, mu = 0, alternative = "two.sided", var.equal = TRUE)
 ```
-![1c](https://github.com/ravinpradhitya/P2_Probstat_F_5025201068/blob/main/1c.jpg)
+![1c](https://github.com/ravinpradhitya/P2_Probstat_F_5025201068/blob/main/img/1c.jpg)
 
 
 2. Diketahui bahwa mobil dikemudikan rata-rata lebih dari 20.000 kilometer per tahun.
@@ -58,7 +58,7 @@ Setuju.
 
 B. Jelaskan maksud dari output yang dihasilkan!
 
-![2b](https://github.com/ravinpradhitya/P2_Probstat_F_5025201068/blob/main/2B.jpg)
+![2b](https://github.com/ravinpradhitya/P2_Probstat_F_5025201068/blob/main/img/2B.jpg)
 
 C. Buatlah kesimpulan berdasarkan P-Value yang dihasilkan!
 
