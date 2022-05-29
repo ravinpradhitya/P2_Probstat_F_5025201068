@@ -27,3 +27,27 @@ tsum.test(mean.x = 23500, sd(3900), n.x = 100)
 
 #c 
 #Jadi benar bahwa mobil dikemudikan rata-rata lebih dari 20.000 kilometer per tahun
+
+
+##3
+
+#a
+#H0 = 9.50 && H1 = 10.98
+
+#b
+tsum.test(mean.x = 3.64, s.x = 1.67, n.x = 19, mean.y = 2.79 , s.y = 1.32, n.y = 27, alternative = "greater", var.equal = TRUE)
+
+#c
+install.packages("mosaic")
+library(mosaic)
+
+plotDist(dist = 't', df = 2, col = "red")
+
+#d
+qchisq(p = 0.05, df = 2, lower.tail = FALSE)
+
+#e
+#H0 tidak bisa
+
+#f
+#Jadi, tidak ada perbedaan rata-rata saham di 2 kota tersebut.
